@@ -1,0 +1,63 @@
+{
+  "name": "Lucas M Santos",
+  "photo": "https://avatars.githubusercontent.com/u/102263606?v=4",
+  "job": "Militar - Exercito Brasileiro",
+  "location": "Juiz de Fora - MG",
+  "phone": "(32) 98419-2494",
+  "email": "lucasmelodsantos@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "/data/imgs/js.png"
+      },
+      {
+        "name": "Git",
+        "logo": "/data/imgs/github.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "/data/imgs/css.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "/data/imgs/html.png"
+      }
+    ],
+    "softSkills": [
+      "Emprenhado",
+      "Liderança",
+      "Trabalho em equipe",
+      "Criatividade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/Melo1337/curriculo",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Manutenção de redes / Exercito Brasileiro",
+      "period": "2021 - 2022",
+      "description": "Trabalhei com muitos profissionais na área de TI aperfeiçoando muito meu conhecimento."
+    },
+    {
+      "name": "Design Gráfico / Exercito Brasileiro",
+      "period": "2022 - até o momento",
+      "description": "É um prazer enorme trabalhar em uma instituição que tenho que sempre dar o meu melhor a cada dia."
+    }
+  ]
+}
